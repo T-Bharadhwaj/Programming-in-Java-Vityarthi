@@ -97,7 +97,6 @@ Campus_Event_Resource_Manager/
 3. Compile all Java source files into the `bin` directory.
 4. Run the interactive CLI Application.
 5. Run the Automated Test Suite.
-   ```
 
 ---
 
