@@ -84,13 +84,9 @@ Campus_Event_Resource_Manager/
 
 1. Open **Command Prompt** (`cmd.exe`).
 2. Navigate to the project directory.
-   ```
 3. Compile all Java source files into the `bin` directory.
-   ```
 4. Run the interactive CLI Application.
-   ```
 5. Run the Automated Test Suite (14 Test Assertions).
-   ```
 
 ---
 
@@ -98,11 +94,8 @@ Campus_Event_Resource_Manager/
 
 1. Open **PowerShell**.
 2. Navigate to the project directory.
-   ```
 3. Compile all Java source files into the `bin` directory.
-   ```
 4. Run the interactive CLI Application.
-   ```
 5. Run the Automated Test Suite.
    ```
 
