@@ -1,0 +1,8 @@
+id,name,type,totalQuantity,status,costPerUnit,location
+R101,Seminar Hall A,AUDITORIUM,1,ACTIVE,100.0,Block 1 2nd Floor
+R102,Main Auditorium,AUDITORIUM,1,ACTIVE,350.0,Central Campus
+R103,Lab 302,CLASSROOM,1,ACTIVE,50.0,Block 3 3rd Floor
+R104,4K Laser Projector,PROJECTOR,5,ACTIVE,25.0,AV Store Room
+R105,Wireless Microphones,MICROPHONE,10,ACTIVE,10.0,AV Store Room
+R106,Cushioned Event Chairs,CHAIRS,200,ACTIVE,1.5,Warehouse A
+R107,PA Sound System,SPEAKERS,4,UNDER_MAINTENANCE,50.0,Warehouse B

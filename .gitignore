@@ -1,0 +1,15 @@
+# Java compiled output
+*.class
+bin/
+out/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.eclipse/
+
+# OS metadata
+.DS_Store
+Thumbs.db

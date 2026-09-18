@@ -1,0 +1,5 @@
+id,name,type,date,startTime,endTime,venueId,organizer,expectedAttendees,budget,status
+E101,AI & ML Workshop,WORKSHOP,2026-10-15,09:00,12:00,R101,CS Department,60,500.0,PLANNED
+E102,Annual Hackathon 2026,HACKATHON,2026-10-15,13:00,18:00,R101,Coding Club,120,1500.0,PLANNED
+E103,Cultural Night Fest,CULTURAL,2026-10-16,18:00,22:00,R102,Student Council,300,3000.0,PLANNED
+E104,Robotics Seminar,SEMINAR,2026-10-18,10:00,12:30,R103,IEEE Student Chapter,45,300.0,PLANNED
